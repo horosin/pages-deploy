@@ -10,6 +10,12 @@ Talk originally presented at [Devoxx Poland](https://devoxx.pl/talk-details/?id=
 - great to host personal pages, projects and documentation
 - CI means better life
 
+## Limitations
+
+- for private projects paid plan is required
+- for private projects there's a limit of 2000 CI minutes
+- only static content
+
 ## Examples for frameworks
 
 All of the frameworks require copying `index.html` to `404.html` in order to handle routing properly.
