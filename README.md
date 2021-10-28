@@ -22,18 +22,18 @@ All of the frameworks require copying `index.html` to `404.html` in order to han
 
 ### Vue
 
-[Demo project here](../pages-demo-vue)
+[Demo project here](https://github.com/horosin/pages-demo-vue)
 
 Follow official documentation for route configuration: (`vue.config.js `)
 https://cli.vuejs.org/guide/deployment.html#github-pages
 
 ### React
 
-[Demo project here](../pages-demo-react)
+[Demo project here](https://github.com/horosin/pages-demo-react)
 
 ### Angular
 
-[Demo project here](../pages-demo-angular)
+[Demo project here](https://github.com/horosin/pages-demo-angular)
 
 
 ## Alternative for personal page
